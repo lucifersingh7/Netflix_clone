@@ -1,0 +1,57 @@
+.heading{
+    height: 200px;
+    max-width: 70%;
+    margin: auto;
+}
+.blank{
+    height: 100px;
+    width: 100%;
+}
+.menubar{
+    height: 75px;
+    width: 100%;
+    display: flex;
+    background-color: black;
+    opacity: 0.9;
+}
+.menubar .logo{
+    height: 75px;
+    width: 80%;
+}
+.logo img{
+    height: 75px;
+    width: 220px;
+    margin: 0px 10px;
+}
+.menubar .head{
+    height: 75px;
+    width: 20%;
+}
+.head ul li{
+    display: inline-block;
+    
+}
+.main{
+    height: 400px;
+    max-width: 80%;
+    margin: auto;
+    background-color: black;
+    opacity: 0.98;
+    display: flex;
+}
+.main .para{
+       height: 400px;
+       width: 65%;
+       margin: 0px 65px;
+}
+.main .picture{
+    height: 400px;
+    width: 35%;
+}
+.black{
+    height: 1200px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.95;
+    border-top: 7px solid gray;
+}

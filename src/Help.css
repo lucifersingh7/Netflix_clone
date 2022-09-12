@@ -1,0 +1,40 @@
+.help_navbar{
+    height: 240px;
+    width: 100%;
+    background-color: black;
+}
+.navbar2{
+  height: 70px;
+  max-width: 60%;
+  margin: auto;
+  background-color: black;
+  display: flex;
+}
+.navbar2 .help_logo{
+    height: 70px;
+    width: 80%;
+    background-color: black;
+}
+.navbar2 .help_buttons{
+    height: 70px;
+    width: 20%;
+    background-color: black;
+}
+.search{
+    height: 125px;
+    width: 100%;
+}
+
+.whitebox{
+    height: 800px;
+    width: 100%;
+    background-color: #EEEEEE;
+    float: left;
+}
+.whitebox .help_slider1{
+    height: 250px;
+    max-width: 70%;
+    margin: auto;
+    background-color:#EEEEEE;
+    border-bottom: 1px solid gray;
+}

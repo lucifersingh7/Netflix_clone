@@ -1,0 +1,35 @@
+.menu{
+    height: 60px;
+    width: 100%;
+    float: left;
+    background-color: black;
+    display: flex;
+    opacity: 0.8;
+}
+.menu .logo{
+    height: 50px;
+    width: 60%;
+    float: left;
+}
+.menu .list{
+    height: 50px;
+    width: 40%;
+}
+.menu .list ul li{
+    display: inline-block;
+}
+.menu .list ul li a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.menu .list ul li a:hover{
+    color: black;
+    background-color: white;
+    transition: all 2 sec;
+    border-radius: 10px;
+    padding: 5px 20px;
+}
